@@ -63,5 +63,5 @@ in the handout.
 ## Attribution
 
 This practical is adapted in structure from
-[STAT 4160: Data Science Productivity Tools, Session 14 — pre-commit & GitHub Actions CI](https://ywanglab.github.io/STAT4160/lec14.html).
+[STAT 4160: Data Science Productivity Tools, Session 14 — pre-commit &amp; GitHub Actions CI](https://ywanglab.github.io/STAT4160/lec14.html).
 The calculator examples and ECE444 instructions were prepared for this practical.
